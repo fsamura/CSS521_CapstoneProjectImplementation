@@ -1,2 +1,3 @@
 Creating another new file to commit.
 Commitis greate I am tryin to learn Git!
+Foday you are doing well in Git!
